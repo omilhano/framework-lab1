@@ -2,10 +2,25 @@
     max-width: 1000px;
 }
 
-.col-lg-4{
-    width: 320px;
+.logo{
+    width: 330px;
 }
 
+.nav{
+    width: 670px;
+}
+
+.brasilimg{
+    width: 670px;
+}
+
+.empty{
+    width: 20px;
+}
+
+.form{
+    width: 310px;
+}
 
 .titles{
     font-size: 20px; 
