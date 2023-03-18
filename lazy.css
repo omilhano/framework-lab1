@@ -27,3 +27,52 @@
     font-weight: 800; 
     color: #5B9BD5;
 }
+
+.questionbox{
+    height: 100px;
+}
+
+body{
+    font-family: Arial
+}
+
+p{
+    margin-left: 10px;
+    font-size: 20px;
+}
+h1{
+    margin-left: 10px;
+    font-size: 25px;
+    font-weight: 800;
+    color: #5B9BD5;
+}
+
+h2{
+    font-size: 20px;
+    margin-left: 10px;
+    color: #5B9BD5;
+    font-weight: 800;
+}
+
+.bong{
+    font-weight: bold;
+    font-size: medium;
+}
+.flwius{
+    font-style: italic;
+    font-size: 14px
+}
+.grp{
+    font-style: italic;
+    font-size: 13px;
+}
+
+.nomesgrupo{font-style: normal;
+    font-size: 13px;
+}
+
+.checkbox{
+    float: right;
+    width: 10px;
+    height: 10px;
+}
