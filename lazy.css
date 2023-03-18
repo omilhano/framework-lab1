@@ -1,0 +1,14 @@
+.container-fluid{
+    max-width: 1000px;
+}
+
+.col-lg-4{
+    width: 320px;
+}
+
+
+.titles{
+    font-size: 20px; 
+    font-weight: 800; 
+    color: #5B9BD5;
+}
