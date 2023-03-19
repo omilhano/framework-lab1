@@ -1,5 +1,5 @@
 body{
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Arial, Helvetica, sans-serif; 
 }
 
 .container-fluid{
@@ -8,6 +8,17 @@ body{
 
 .col-lg-8, .col-lg-4, .col-lg-7, .col-lg-1, .col-lg-4, .col-lg-12{
     border: 1px solid black;
+}
+
+
+
+
+.col-lg-12{
+    width: 100%;
+}
+
+.col-lg-4   {
+    flex: 1;
 }
 
 .imagem{
