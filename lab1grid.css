@@ -11,4 +11,29 @@
     height: 300px;
 }
 
+.titles{
+    color: #5c9cd4;
+    font-weight: bold;
+}
+
+#title{
+    color: #5c9cd4;
+}
+
+.boxes{
+    border-color: #5c9cd4;
+}
+
+.sendform{
+    background-color: #5c9cd4;
+    color: white;
+}
+
+.bong{
+    font-weight: bold;
+}
+
+.flwius{
+    font-weight: bold;
+}
 
